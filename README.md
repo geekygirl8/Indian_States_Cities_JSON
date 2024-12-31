@@ -1,1 +1,1 @@
-# Indian_States_Cities_JSON
+# This repository contains Indian States and Indian Cities Statewise Json Data
